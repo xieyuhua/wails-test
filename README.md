@@ -2,7 +2,7 @@
 
 ## About
 
-This is the official Wails Svelte-TS template.
+This is the official Wails Svelte-TS template. https://wails.io/zh-Hans
 
 ## Live Development
 
