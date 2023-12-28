@@ -1,13 +1,16 @@
 {
-  "$schema": "https://wails.io/schemas/config.v2.json",
-  "name": "myproject",
-  "outputfilename": "myproject",
-  "frontend:install": "npm install",
-  "frontend:build": "npm run build",
-  "frontend:dev:watcher": "npm run dev",
-  "frontend:dev:serverUrl": "auto",
+  "version": "v0.0.1",
+  "name": "数据流向",
+  "outputfilename": "数据流向3",
+  "frontend:install": "",
+  "frontend:build": "",
   "author": {
-    "name": "\"xieyuhua\"",
-    "email": ""1130"
+    "name": "数据流向",
+    "email": "xieyuhua@163.com"
+  },
+  "Info": {
+    "companyName": "数据流向",
+    "productName": "数据流向"
   }
+
 }
