@@ -15,5 +15,5 @@ to this in your browser, and you can call your Go code from devtools.
 
 To build a redistributable, production mode package, use `wails build`.
 
-
+`wails build`
 `go build -tags desktop,production -ldflags "-w -s -H windowsgui"`
