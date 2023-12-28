@@ -1,15 +1,16 @@
 package main
 
 import (
+	"changeme/pkg/sys"
 	"context"
 	"encoding/json"
 	"fmt"
+	"math"
+	"time"
+
 	"github.com/shirou/gopsutil/cpu"
 	"github.com/wailsapp/wails/v2/pkg/logger"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
-	"math"
-	"time"
-	"wails_demo/pkg/sys"
 )
 
 // App struct
