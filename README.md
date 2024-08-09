@@ -8,9 +8,9 @@
 -->
 # README
 
-## About
+## About  推荐 aardio
 
-This is the official Wails Svelte-TS template. https://wails.io/zh-Hans
+This is the official Wails Svelte-TS template. https://wails.io/zh-Hans  
 
 ## Live Development
 
