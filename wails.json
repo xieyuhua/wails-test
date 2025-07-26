@@ -1,16 +1,16 @@
 {
   "version": "v0.0.1",
-  "name": "数据流向",
-  "outputfilename": "数据流向3",
+  "name": "爆品订单",
+  "outputfilename": "爆品订单",
   "frontend:install": "",
   "frontend:build": "",
   "author": {
-    "name": "数据流向",
+    "name": "爆品订单",
     "email": "xieyuhua@163.com"
   },
   "Info": {
-    "companyName": "数据流向",
-    "productName": "数据流向"
+    "companyName": "爆品订单",
+    "productName": "爆品订单"
   }
 
 }
